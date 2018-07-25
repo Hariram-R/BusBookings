@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Bus Bookings</string>
+    <string name="rupee">₹</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

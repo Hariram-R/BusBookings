@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/nav_mybookings"
+            android:title="My Bookings"
+            android:icon="@drawable/ic_directions_bus_black_24dp"/>
+        <item android:id="@+id/nav_search"
+            android:title="Search for Buses"
+            android:icon="@drawable/ic_search_black_24dp"/>
+        <item android:id="@+id/nav_logout"
+            android:title="Logout"
+            android:icon="@drawable/ic_person_outline_black_24dp"/>
+
+        <item android:id="@+id/nav_about"
+            android:title="About us"
+            />
+
+    </group>
+
+</menu>
